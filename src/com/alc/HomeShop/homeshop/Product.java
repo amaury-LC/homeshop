@@ -4,6 +4,13 @@ public class Product {
 
     private String name;
     private String description;
+    private Double price;
+
+    public Product(String name, String description, Double price) {
+        this.name = name;
+        this.description = description;
+        this.price = price;
+    }
 
     public Double getPrice() {
         return price;
@@ -21,7 +28,7 @@ public class Product {
         return description;
     }
 
-    private Double price;
+
 
     /**
      * Display a full description of the product
