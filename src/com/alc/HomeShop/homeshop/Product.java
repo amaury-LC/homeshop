@@ -2,9 +2,26 @@ package com.alc.HomeShop.homeshop;
 
 public class Product {
 
-    String name;
-    String description;
-    Double price;
+    private String name;
+    private String description;
+
+    public Double getPrice() {
+        return price;
+    }
+
+    public void setPrice(Double price) {
+        this.price = price;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    private Double price;
 
     /**
      * Display a full description of the product

@@ -2,8 +2,34 @@ package com.alc.HomeShop.Miam;
 
 public class four {
 
-    int puissance;
-    int capacite;
+    public int getPuissance() {
+        return puissance;
+    }
+
+    public void setPuissance(int puissance) {
+        this.puissance = puissance;
+    }
+
+    public int getCapacite() {
+        return capacite;
+    }
+
+    public void setCapacite(int capacite) {
+        this.capacite = capacite;
+    }
+
+    public com.alc.HomeShop.Miam.resistance getResistance() {
+        return resistance;
+    }
+
+    public com.alc.HomeShop.Miam.soufflerie getSoufflerie() {
+        return soufflerie;
+    }
+
+    private int puissance;
+    private int capacite;
+    private resistance resistance;
+    private soufflerie soufflerie;
 
     public void cuire(Aliment Aliment){
 

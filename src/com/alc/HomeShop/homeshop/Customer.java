@@ -2,7 +2,17 @@ package com.alc.HomeShop.homeshop;
 
 public class Customer {
 
-    String fullname;
-    String address;
+    private String fullname;
+    private String address;
+
+    public String getFullname() {
+        return fullname;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+
 
 }
