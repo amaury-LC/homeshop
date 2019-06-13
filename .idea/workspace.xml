@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d17d2332-3d00-4c85-98eb-94a90abf9a96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/alc/HomeShop/garage/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Fridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Television.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/alc/HomeShop/garage/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -43,6 +44,36 @@
                 <element signature="e#1373#1374#0" expanded="true" />
                 <element signature="e#1403#1404#0" expanded="true" />
                 <element signature="e#1432#1433#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Television.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Fridge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding>
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,6 +135,8 @@
         <option value="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Product.java" />
         <option value="$PROJECT_DIR$/src/com/alc/HomeShop/garage/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/com/alc/HomeShop/garage/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Fridge.java" />
+        <option value="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Television.java" />
       </list>
     </option>
   </component>
@@ -257,7 +290,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560349806022</updated>
       <workItem from="1560349809146" duration="9602000" />
-      <workItem from="1560423409207" duration="1386000" />
+      <workItem from="1560423409207" duration="1915000" />
     </task>
     <task id="LOCAL-00001" summary="2 commit test avec IJ">
       <created>1560356052293</created>
@@ -308,11 +341,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560424190215</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="creation class Car qui herite de class Vehicle">
+      <created>1560424852457</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560424852457</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10988000" />
+    <option name="totallyTimeSpent" value="11517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -359,7 +399,8 @@
     <MESSAGE value="creation des constructor bill customer product &#10;ainssi de list&lt;string&gt;" />
     <MESSAGE value="creation package garage et class Vehicle" />
     <MESSAGE value="creation class Vehicle les proprietes et leurs getter et 2 methode stop et start ainssi" />
-    <option name="LAST_COMMIT_MESSAGE" value="creation class Vehicle les proprietes et leurs getter et 2 methode stop et start ainssi" />
+    <MESSAGE value="creation class Car qui herite de class Vehicle" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation class Car qui herite de class Vehicle" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/MiamTest.java" />
@@ -518,6 +559,32 @@
             <element signature="e#1373#1374#0" expanded="true" />
             <element signature="e#1403#1404#0" expanded="true" />
             <element signature="e#1432#1433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Fridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Television.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
           </folding>
         </state>
       </provider>
