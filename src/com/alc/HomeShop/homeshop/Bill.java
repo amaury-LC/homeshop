@@ -6,10 +6,13 @@ public class Bill {
 
     private Customer customer;
     private Map<Product, Integer> products;
+    private Delivery delivery;
 
 
-    public Bill(Customer customer) {
+
+    public Bill(Customer customer,Delivery delivery) {
         this.customer = customer;
+        this.delivery = delivery;
     }
 
 

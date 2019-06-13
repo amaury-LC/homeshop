@@ -1,6 +1,6 @@
 package com.alc.HomeShop.homeshop;
 
-public interface Delevery {
+public interface Delivery {
 
     public double getPrice();
 }
