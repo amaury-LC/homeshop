@@ -2,45 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d17d2332-3d00-4c85-98eb-94a90abf9a96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HomeShop_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HomeShop_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/web/HelloWorldServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage/bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/DirectDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/ExpressDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/FilesWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Fridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/NoProductInBillException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/RelayDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/TakeAwayDelevery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/Aliment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/resistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/soufflerie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/MoyenDeLocomotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/Parisien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/Taxi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeShop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/alc/HomeShop/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/alc/HomeShop/Miam/Aliment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/alc/HomeShop/Miam/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/alc/HomeShop/Miam/four.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/Miam/Aliment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/Miam/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/Miam/four.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/Miam/resistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/Miam/soufflerie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/garage/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/garage/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/garage/bike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Bill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Delivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/DirectDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/ExpressDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/FilesWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Fridge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/NoProductInBillException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/RelayDelivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/TakeAwayDelevery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Television.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Writer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/paris/Bus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/paris/MoyenDeLocomotion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/paris/Parisien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/alc/HomeShop/paris/Taxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/BillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/BillTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/ExpressDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/ExpressDeliveryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/ProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/RelayDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/RelayDeliveryTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,41 +49,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1069#1070#0" expanded="true" />
+                <element signature="e#1132#1133#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/target/classes/com/alc/HomeShop/homeshop/Customer.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/classes/com/alc/HomeShop/homeshop/Delivery.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/classes/com/alc/HomeShop/Main.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/BillTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/web/HelloWorldServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,34 +94,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeShop.iml">
+        <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/CustomerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Bill.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/web/HelloWorldServiet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -133,32 +105,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/ExpressDeliveryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/ProductTest.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/RelayDeliveryTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/TakeAwayDelevery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/RelayDelivery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Television.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -180,10 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/alc/HomeShop/paris/Taxi.java" />
-        <option value="$PROJECT_DIR$/src/com/alc/HomeShop/paris/Parisien.java" />
-        <option value="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Delevery.java" />
-        <option value="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/RelayDeliveryTest.java" />
         <option value="$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/ExpressDeliveryTest.java" />
         <option value="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Writer.java" />
         <option value="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/Delivery.java" />
@@ -201,36 +172,40 @@
         <option value="$PROJECT_DIR$/src/com/alc/HomeShop/Main.java" />
         <option value="$PROJECT_DIR$/src/com/alc/HomeShop/homeshop/web/HelloWorldServiet.java" />
         <option value="$PROJECT_DIR$/src/main/com/alc/HomeShop/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/Aliment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/resistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/soufflerie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/four.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/web/HelloWorldServiet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/web/HelloWorldServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Bill.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Delivery.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/DirectDelivery.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/ExpressDelivery.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/FilesWriter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Fridge.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/NoProductInBillException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/RelayDelivery.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/TakeAwayDelevery.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Television.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/NoProductlnBillException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Writer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/Bus.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/MoyenDeLocomotion.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/Parisien.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/Taxi.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/Aliment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/resistance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/soufflerie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/Aliment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage/bike.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/four.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/web/HelloWorldServiet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/four.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/NoProductInBillException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/ExpressDelivery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/DirectDelivery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/FilesWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Fridge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/TakeAwayDelevery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/RelayDelivery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Television.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/alc/HomeShop/web/HelloWorldServlet.java" />
       </list>
     </option>
   </component>
@@ -275,6 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,28 +291,23 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="homeshop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -464,9 +435,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.RelayDeliveryTest" />
         <item itemvalue="JUnit.ExpressDeliveryTest" />
         <item itemvalue="JUnit.BillTest" />
+        <item itemvalue="JUnit.RelayDeliveryTest" />
         <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
@@ -487,7 +458,8 @@
       <workItem from="1560521503804" duration="131000" />
       <workItem from="1560521719719" duration="84000" />
       <workItem from="1560521821689" duration="127000" />
-      <workItem from="1560522307444" duration="3202000" />
+      <workItem from="1560522307444" duration="7199000" />
+      <workItem from="1560533756757" duration="916000" />
     </task>
     <task id="LOCAL-00001" summary="2 commit test avec IJ">
       <created>1560356052293</created>
@@ -587,16 +559,17 @@
       <option name="project" value="LOCAL" />
       <updated>1560519322550</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="creation d'une page web">
+      <created>1560526045338</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560526045338</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BillTest_Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal - 2019.06.14 at 13h 33m 37s.xml">
-      <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BillTest_Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal - 2019.06.14 at 13h 38m 31s.xml">
-      <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BillTest_Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal - 2019.06.14 at 13h 38m 53s.xml">
       <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" configurationId="JUnit" />
     </history-entry>
@@ -621,25 +594,31 @@
     <history-entry file="RelayDeliveryTest - 2019.06.14 at 16h 34m 51s.xml">
       <configuration name="RelayDeliveryTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BillTest - 2019.06.14 at 19h 40m 52s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExpressDeliveryTest - 2019.06.14 at 19h 41m 02s.xml">
+      <configuration name="ExpressDeliveryTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36153000" />
+    <option name="totallyTimeSpent" value="41066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2692802" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27249357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -650,13 +629,14 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.32969153" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32969153" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -709,93 +689,17 @@
     <MESSAGE value="creation de test de ils fonctionnent" />
     <MESSAGE value="facture" />
     <MESSAGE value="exception si il n'y pas de produit dans la facture" />
-    <option name="LAST_COMMIT_MESSAGE" value="exception si il n'y pas de produit dans la facture" />
+    <MESSAGE value="creation d'une page web" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation d'une page web" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/MiamTest.java" />
-    <entry file="file://$PROJECT_DIR$/facture Le Blanc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facture_Le_Blanc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Delivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/ExpressDelivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/FilesWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Fridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/NoProductInBillException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/RelayDelivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/TakeAwayDelevery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Television.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop1/Fridge.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop1/NoProductInBillException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop1/Product.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop1/RelayDelivery.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop1/TakeAwayDelevery.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop1/Television.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop1/Writer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Writer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -803,108 +707,196 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/DirectDelivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris1/Bus.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/Bus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris1/MoyenDeLocomotion.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/MoyenDeLocomotion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris1/Parisien.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/Parisien.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris1/Taxi.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/paris/Taxi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/resistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/resistance.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/soufflerie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/soufflerie.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam1/Aliment.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/Aliment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam1/four.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam1/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam1/resistance.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam1/soufflerie.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage1/bike.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage/bike.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#1015#1016#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage1/Car.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="416">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/Aliment.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage1/Vehicle.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/garage/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="416">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Miam/four.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/miam/four.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="229">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/NoProductInBillException" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/NoProductInBillException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/ExpressDelivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/DirectDelivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/FilesWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Fridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/alc/HomeShop/homeshop/Bill.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/alc/HomeShop/homeshop/Customer.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/alc/HomeShop/homeshop/Delivery.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/alc/HomeShop/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/TakeAwayDelevery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/RelayDelivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Television.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/BillTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -913,95 +905,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/CustomerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/ExpressDeliveryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/ProductTest.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/alc/HomeShop/homeshop/RelayDeliveryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeShop.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/Bill.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/homeshop/web/HelloWorldServiet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alc/HomeShop/web/HelloWorldServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1132#1133#0" expanded="true" />
           </folding>
         </state>
       </provider>
