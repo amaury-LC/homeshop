@@ -6,5 +6,10 @@ public class DirectDelivery implements Delivery {
         return 4.99;
     }
 
+    @Override
+    public String getinfo() {
+        return "livraison à domicile 4.99";
+    }
+
 
 }

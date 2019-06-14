@@ -5,4 +5,9 @@ public class TakeAwayDelevery implements Delivery {
     public double getPrice() {
         return 0;
     }
+
+    @Override
+    public String getinfo() {
+        return "retrait 0.00€";
+    }
 }

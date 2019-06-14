@@ -26,4 +26,9 @@ public class RelayDelivery implements Delivery {
             return 4.99;
         }
     }
+
+    @Override
+    public String getinfo() {
+        return "livraison point relais "+ getPrice();
+    }
 }
