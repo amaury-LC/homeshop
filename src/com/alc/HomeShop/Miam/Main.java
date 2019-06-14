@@ -8,9 +8,10 @@ public class Main {
     public static void main(String[] args) {
 
 
-        /*four grandFour = new four();
-        grandFour.capacite = 55;
-        grandFour.puissance = 260;
+        four grandFour = new four();
+        grandFour.setCapacite(55);
+        grandFour.setPuissance(260);
+
 
 
 
@@ -19,9 +20,9 @@ public class Main {
         cake.estCuit = false;
         cake.manger();
         System.out.println("");
-        grandFour.cuire(cake);
+        grandFour.cuire(cake,55,-1);
         System.out.println("");
-        cake.manger();*/
+        cake.manger();
 
 
 

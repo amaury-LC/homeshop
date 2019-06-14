@@ -20,7 +20,32 @@ public class Main {
         bill.addProduct(tv, 1);
         bill.addProduct(fridge, 1);
 
-        bill.generate(new FilesWriter("facture_Le_Blanc") );
+        //bill.generate(new FilesWriter("facture_Le_Blanc") );
+
+        try {
+            bill.generate(new Writer() {
+                @Override
+                public void start() {
+
+                }
+
+                @Override
+                public void writeLine(String line) {
+                    System.out.println(line + "\n");
+                }
+
+                @Override
+                public void stop() {
+
+                }
+            });
+        }catch (NoProductInBillException e){
+
+            System.out.println("Pas de produit dans la facture");
+
+
+        }
+        }
 
 
 
@@ -31,4 +56,4 @@ public class Main {
 
 
     }
-}
+
